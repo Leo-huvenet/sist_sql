@@ -3,5 +3,5 @@ DATABASE
 
 ## OneNote Review
 
-* [OracleSQL](https://github.com/RyuKyeongWoo/sist_sql/blob/master/OneNote%20Review/OracleSQL.one?raw=true)
-* [PLSQL](https://github.com/RyuKyeongWoo/sist_sql/blob/master/OneNote%20Review/PLSQL.one?raw=true)
+* [OracleSQL](https://github.com/RyuKyeongWoo/onenote-review/blob/main/sist_review/Database.one?raw=true)
+* [PLSQL](https://github.com/RyuKyeongWoo/onenote-review/blob/main/sist_review/PLSQL.one?raw=true)
